@@ -1,2 +1,2 @@
 # gamedev_projects
-This is a repository where I upload all my game dev projects which I lean form udemy course 
+This is a repository where I upload all my unity projects which I learn form a udemy course.
